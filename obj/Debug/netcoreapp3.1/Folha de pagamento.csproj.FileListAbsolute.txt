@@ -1,0 +1,13 @@
+C:\Users\William\Desktop\Programação\Folha de pagamento\bin\Debug\netcoreapp3.1\Folha de pagamento.exe
+C:\Users\William\Desktop\Programação\Folha de pagamento\bin\Debug\netcoreapp3.1\Folha de pagamento.deps.json
+C:\Users\William\Desktop\Programação\Folha de pagamento\bin\Debug\netcoreapp3.1\Folha de pagamento.runtimeconfig.json
+C:\Users\William\Desktop\Programação\Folha de pagamento\bin\Debug\netcoreapp3.1\Folha de pagamento.runtimeconfig.dev.json
+C:\Users\William\Desktop\Programação\Folha de pagamento\bin\Debug\netcoreapp3.1\Folha de pagamento.dll
+C:\Users\William\Desktop\Programação\Folha de pagamento\bin\Debug\netcoreapp3.1\Folha de pagamento.pdb
+C:\Users\William\Desktop\Programação\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.csprojAssemblyReference.cache
+C:\Users\William\Desktop\Programação\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.AssemblyInfoInputs.cache
+C:\Users\William\Desktop\Programação\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.AssemblyInfo.cs
+C:\Users\William\Desktop\Programação\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Programação\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.dll
+C:\Users\William\Desktop\Programação\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.pdb
+C:\Users\William\Desktop\Programação\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.genruntimeconfig.cache
